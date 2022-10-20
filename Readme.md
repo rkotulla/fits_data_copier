@@ -6,7 +6,7 @@ rsync.
 
 
 ## How to use:
-> datacopier.py --stage_dir=some_staging_directory --targetdir=user@server:/some/dir your_data_directory
+> python3 datacopier.py --stage_dir=some_staging_directory --targetdir=user@server:/some/dir your_data_directory
 
 
 ## What's needed:
